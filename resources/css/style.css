@@ -23,7 +23,11 @@ p {
   font-size: 14px;
 }
 
+a:link, a:visited {
+  color:white;
+}
 .main, .ny {
+  object-fit: none;
   background-image: url("../images/the-flatiron-building.png");
 }
 
@@ -32,9 +36,15 @@ p {
   color: white;
 }
 
+.ny {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
 .copyright {
   font-size: 11px;
-  color: white;
   background-color: dimgray;
+  color: white;
   text-align: left;
 }
