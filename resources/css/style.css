@@ -3,6 +3,7 @@ body {
   text-align: center;
 }
 
+/*Broadway Design heading*/
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -23,6 +24,7 @@ p {
   font-size: 14px;
 }
 
+/*link attributs*/
 a:link, a:visited {
   color:white;
 }
@@ -31,6 +33,7 @@ a:link, a:visited {
   background-image: url("../images/the-flatiron-building.png");
 }
 
+/*link decoration*/
 .menu {
   font-size: 18px;
   color: white;
